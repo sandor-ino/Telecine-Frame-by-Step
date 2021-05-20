@@ -1,0 +1,20 @@
+﻿ 
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sanduino telecine", "sanduino telecine\sanduino telecine.vbproj", "{509FF8CA-DA5B-4B31-97EC-D87A69D7CB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509FF8CA-DA5B-4B31-97EC-D87A69D7CB21}.Debug|x86.ActiveCfg = Debug|x86
+		{509FF8CA-DA5B-4B31-97EC-D87A69D7CB21}.Debug|x86.Build.0 = Debug|x86
+		{509FF8CA-DA5B-4B31-97EC-D87A69D7CB21}.Release|x86.ActiveCfg = Release|x86
+		{509FF8CA-DA5B-4B31-97EC-D87A69D7CB21}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

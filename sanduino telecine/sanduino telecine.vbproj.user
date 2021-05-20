@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\SUPER 8 NUOVI\sketch_sandorino\app definitivo\|C:\Documents and Settings\samxp\Documenti\sketch_sandorino\app definitivo\|E:\sketch_sandorino\app definitivo\|publish\|E:\TELECINE\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartWorkingDirectory>E:\SUPER 8 NUOVI\sketch_sandorino\sanduino telecine\sanduino telecine\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartWorkingDirectory>D:\varie\sanduino telecineultimo\sanduino telecine\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\Users\Sam\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\</ReferencePath>
+  </PropertyGroup>
+</Project>

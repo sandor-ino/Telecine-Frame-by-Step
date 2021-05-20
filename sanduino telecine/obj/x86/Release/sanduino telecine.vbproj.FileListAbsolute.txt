@@ -1,0 +1,265 @@
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.config
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.manifest
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.application
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.pdb
+E:\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.xml
+E:\sanduino telecine\sanduino telecine\bin\Release\it\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbprojAssemblyReference.cache
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form1.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.GenerateResource.cache
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CoreCompileInputs.cache
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.TrustInfo.xml
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe.manifest
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.application
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CopyComplete
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.xml
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.pdb
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.ResolveComReference.cache
+E:\sanduino telecine\sanduino telecine\bin\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\sanduino telecine\sanduino telecine\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.g.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog1.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog2.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form2.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form3.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form4.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form5.resources
+E:\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form6.resources
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.config
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.pdb
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.ResolveComReference.cache
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.g.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog1.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog2.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form1.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form2.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form4.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form5.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form6.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.GenerateResource.cache
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CoreCompileInputs.cache
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CopyComplete
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.xml
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.pdb
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.GPU.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.ML.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.OCR.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.UI.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.Util.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\ZedGraph.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.GPU.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.ML.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.OCR.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.CV.UI.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\Emgu.Util.xml
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form7.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form8.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog3.resources
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Controls.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.dll
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Controls.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.xml
+E:\varie\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.xml
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form3.resources
+E:\varie\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbprojAssemblyReference.cache
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.config
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.pdb
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.ResolveComReference.cache
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.g.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog1.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog2.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog3.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form1.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form2.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form3.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form4.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form5.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form6.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form7.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form8.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.GenerateResource.cache
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CoreCompileInputs.cache
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CopyComplete
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.pdb
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form9.resources
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll.config
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avcodec-57.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avdevice-57.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avfilter-6.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avformat-57.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avutil-55.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\postproc-54.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swresample-2.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swscale-4.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.dll
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.xml
+E:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbprojAssemblyReference.cache
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avcodec-57.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avdevice-57.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avfilter-6.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avformat-57.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avutil-55.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\postproc-54.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swresample-2.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swscale-4.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll.config
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.config
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.pdb
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbprojAssemblyReference.cache
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.ResolveComReference.cache
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.g.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog1.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog2.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog3.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form3.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form4.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form5.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form6.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form7.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form8.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form9.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.GenerateResource.cache
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CoreCompileInputs.cache
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CopyComplete
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.pdb
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form10.resources
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.Core.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Statistics.dll
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.Core.xml
+D:\varie\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Statistics.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avcodec-57.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avdevice-57.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avfilter-6.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avformat-57.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\avutil-55.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\postproc-54.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swresample-2.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\swscale-4.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll.config
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe.config
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.exe
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.pdb
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\telecine Frame By Step.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.Core.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Statistics.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Math.Core.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Statistics.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Accord.Video.FFMPEG.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Imaging.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Math.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AForge.Video.DirectShow.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbprojAssemblyReference.cache
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.ResolveComReference.cache
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.g.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog1.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog2.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Dialog3.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form10.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form3.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form4.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form5.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form6.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form7.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form8.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Form9.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.GenerateResource.cache
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CoreCompileInputs.cache
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\sanduino telecine.vbproj.CopyComplete
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.exe
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.xml
+D:\sanduino telecineultimo\sanduino telecine\sanduino telecine\obj\x86\Release\telecine Frame By Step.pdb
