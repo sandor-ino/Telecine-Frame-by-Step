@@ -1,4 +1,4 @@
-# Telecine-Frame-by-Step-V1
+# Telecine-Frame-by-Step-V1 (BETA)
 
 Telecine Frame by Step V1 project (only in Italian language) 
 
