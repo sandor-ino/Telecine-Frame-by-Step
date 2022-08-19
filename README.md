@@ -1,6 +1,6 @@
-# Telecine-Frame-by-Step-V1
+# Telecine-Frame-by-Step-V2
 
-Telecine Frame by Step V1 project (only in Italian language) 
+Telecine Frame by Step V2 project new graphics and more (only in Italian language) 
 
 application for digital acquisition film super8 or Normal8 (no audio)
 
@@ -14,4 +14,3 @@ Manage:
     Rename the entire sequence
     Export video in various formats
     
-
