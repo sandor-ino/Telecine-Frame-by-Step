@@ -1,4 +1,4 @@
-# Telecine-Frame-by-Step-V2
+# Telecine-Frame-by-Step-V2 (BETA)
 
 Telecine Frame by Step V2 project new graphics and more (only in Italian language) 
 
